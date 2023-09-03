@@ -37,6 +37,7 @@ Como Cientista de Dados, adquiri diversas habilidades que me permitem transforma
 Estou animado para compartilhar minhas habilidades e projetos com você. Se deseja entrar em contato ou saber mais sobre o meu trabalho, sinta-se à vontade para me contatar:
 
 **E-mail**: vitorasc94@gmail.com
+
 **LinkedIn**: www.linkedin.com/in/dsvitorchaves
 
 Agradeço por visitar meu repositório e espero que você aproveite a exploração dos meus projetos como Cientista de Dados!
