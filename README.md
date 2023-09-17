@@ -3,7 +3,7 @@
 Olá! Seja bem-vindo ao meu repositório de apresentação como Cientista de Dados. Aqui você encontrará uma visão geral das minhas habilidades, projetos e conquistas ao longo do meu curso na EBAC.
 
 # Sobre mim
-Sou aluno da E.B.A.C (Escola Britânica de Artes Criativas & Tecnologia) concluindo a formação em Ciência de Dados, com habilidades em Python e SQL. Busco oportunidades para aplicar meus conhecimentos em análise de dados em um ambiente profissional, focado em resolver problemas e gerar insights práticos a partir de dados. Estou aberto a novos desafios e aprendizado contínuo.
+Com uma trajetória extensa na área de Tecnologia da Informação, atuando como Analista de T.I. e Técnico de Informática, adquiri habilidades valiosas em suporte técnico, segurança da informação e gestão de redes. Essa experiência me proporcionou compreensão da importância dos dados e da infraestrutura tecnológica nas operações diárias de uma organização. Foi essa percepção que me levou a buscar uma formação em Ciência de Dados. Estou ansioso com a perspectiva de combinar minha experiência anterior com as competências recém-adquiridas em programação, análise de dados e machine learning. Minha motivação é utilizar essa sinergia para desbloquear o verdadeiro valor dos dados, gerando soluções práticas e insights valiosos. Atualmente, estou em busca de uma oportunidade para fazer essa transição e aplicar meu conjunto diversificado de habilidades na área de Ciência de Dados.
 
 # Habilidades
 Como Cientista de Dados, adquiri diversas habilidades que me permitem transformar dados em insights significativos:
